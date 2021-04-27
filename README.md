@@ -16,7 +16,7 @@ Or simply [download a zip](https://github.com/radhadeshmukh/tests-for-herokuapp/
 
 Open a command window and run:
 
-    ./mvn test
+    mvn test
 
 This runs Cucumber features using Cucumber's JUnit runner. The `@RunWith(Cucumber.class)` annotation on the 
 `Testrunner` class tells JUnit to kick off Cucumber.
