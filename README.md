@@ -6,7 +6,7 @@ This repository contains the code for testing Herokuapp using gherkin syntax.
 
 Git:
 
-    https://github.com/radhadeshmukh/tests-for-herokuapp
+    git clone https://github.com/radhadeshmukh/tests-for-herokuapp
     cd tests-for-herokuapp
 
 
