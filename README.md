@@ -26,7 +26,7 @@ This runs Cucumber features using Cucumber's JUnit runner. The `@RunWith(Cucumbe
 
 - Import the code into an IDE like Eclipse or Netbeans.
 - Right click on the project.
-_ Select "Run As" "Junit Test".
+- Select "Run As" "Junit Test".
 - The tests will start their execution.
 
 ## Overriding options
